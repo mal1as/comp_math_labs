@@ -1,2 +1,3 @@
 # CompMathLabs
-Labs for computational mathematics subject
+
+Computational math course labs
